@@ -24,7 +24,7 @@
 ```javascript
 class Sushil {
   pronouns = "he/him";
-  role = "Full-Stack Developer";
+  role = "Software Developer";
   education = "Bachelor of Computer Applications, 2025";
   location = "Jaipur, Rajasthan, India 🇮🇳";
 

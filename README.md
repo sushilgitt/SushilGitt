@@ -90,6 +90,12 @@
   <img src="https://komarev.com/ghpvc/?username=SushilGitt&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile views counter" />
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/sushilbharti">
+    <img src="https://leetcard.jacoblin.cool/sushilbharti?theme=dark&font=ui-monospace&ext=heatmap&border=0" alt="Sushil Bharti — LeetCode stats" />
+  </a>
+</p>
+
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-449.37%20thousand%20lines%20of%20code-blue?style=flat)
 

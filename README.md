@@ -25,6 +25,12 @@
   <img src="https://raw.githubusercontent.com/SushilGitt/SushilGitt/main/assets/about-terminal.svg?v=2" alt="Terminal session: whoami — Sushil Bharti, Software Developer" width="720" />
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/sushilbharti">
+    <img src="https://leetcard.jacoblin.cool/sushilbharti?theme=dark&font=ui-monospace&ext=heatmap&border=0" alt="Sushil Bharti — LeetCode stats" />
+  </a>
+</p>
+
 ---
 
 ### 🛠️ Tech Stack
@@ -88,12 +94,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SushilGitt&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile views counter" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/sushilbharti">
-    <img src="https://leetcard.jacoblin.cool/sushilbharti?theme=dark&font=ui-monospace&ext=heatmap&border=0" alt="Sushil Bharti — LeetCode stats" />
-  </a>
 </p>
 
 <!--START_SECTION:waka-->

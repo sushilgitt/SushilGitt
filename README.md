@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/sushilbharti">
-    <img src="https://leetcard.jacoblin.cool/sushilbharti?theme=dark&font=ui-monospace&ext=heatmap&border=0" alt="Sushil Bharti — LeetCode stats" />
+    <img src="https://leetcard.jacoblin.cool/sushilbharti?font=ui-monospace&ext=heatmap&border=0&colors=0d1117,161b22,c9d1d9,8b949e,58a6ff,7ee787,ffa657,f85149" alt="Sushil Bharti — LeetCode stats" />
   </a>
 </p>
 
